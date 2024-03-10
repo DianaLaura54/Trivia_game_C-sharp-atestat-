@@ -1,0 +1,9 @@
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.exe
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.pdb
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT\obj\x86\Debug\WindowsFormsApplication19.exe
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT\obj\x86\Debug\WindowsFormsApplication19.pdb
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT2021\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT2021\obj\x86\Debug\WindowsFormsApplication19.exe
+C:\Users\dyala\Documents\Visual Studio 2010\Projects\ATESTAT2021\ATESTAT2021\obj\x86\Debug\WindowsFormsApplication19.pdb
